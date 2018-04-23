@@ -17,7 +17,7 @@
 
 ## 效果演示
 
-<a onclick="http://joubn.com/h5/dist/" target="_blank">查看demo请戳这里</a>（建议浏览器手机模式下浏览） ✨✨
+<a href="http://joubn.com/h5/dist/" target="_blank">查看demo请戳这里</a>（建议浏览器手机模式下浏览） ✨✨
 
 ## 技术栈
 
