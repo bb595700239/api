@@ -19,6 +19,9 @@
 
 <a href="http://joubn.com/api/dist/" target="_blank">查看demo请戳这里</a>（建议浏览器手机模式下浏览） ✨✨
 
+手机扫码二维码：
+<img src="http://p7f6eba64.bkt.clouddn.com/h5card.png">
+
 ## 技术栈
 
 `vue` + `vue-router` + `svg`  + `vuex` + `webpack`
